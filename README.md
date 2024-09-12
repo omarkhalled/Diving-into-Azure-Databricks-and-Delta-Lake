@@ -26,14 +26,4 @@ After the updates, the modified data was saved in Delta format to preserve versi
 
 ## Key Technologies
 
-### Azure Databricks:
-A cloud-based service that combines big data and AI capabilities using Apache Spark.
-
-### Azure Data Lake Storage:
-A scalable and secure data lake for high-performance analytics workloads.
-
-### Delta Lake:
-An open-source storage layer that brings ACID transactions to Apache Spark and improves data reliability and performance.
-
-### Apache Spark (PySpark):
-A distributed computing framework used for large-scale data processing.
+Azure Databricks, Azure Data Lake Storage, Delta Lake, Apache Spark (PySpark)
